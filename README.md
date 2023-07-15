@@ -1,5 +1,5 @@
 # Reading-Notes
-Reading Notes For CodeX
+
 ![Image Of Arianne](https://ariboyd.files.wordpress.com/2020/11/image-1.jpg?w=200)
 ### Hello! My name is Ari, short for Arianne. I am from New Orleans, LA and I am super excited about the courses at CodeX. I have come across coders before and I could'nt imagine being able to understand what they were looking at but it is super exciting to know that I will be able to now!
 # *"Growth Mindset"* 
