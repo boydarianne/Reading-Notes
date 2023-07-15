@@ -8,5 +8,5 @@
 ### 1. There is something gain from every experience whether it is good or bad. 
 ### 2. Understand that development takes time so its important to be patient and know that you are making progress even when it may feel like you are not.
 ### 3.  Always stop to acknoweldge what you HAVE accomplished. It helps to focus on the progress you havae made over focusing on what you have not done yet.
-![Github Cat](https://www.simpleimageresizer.com/_uploads/photos/5bbb6066/Github_Cat_1_100x100.png) , [Github](https://github.com/boydarianne)
+![Github Cat](https://www.simpleimageresizer.com/_uploads/photos/5bbb6066/Github_Cat_1_100x100.png)  [Github](https://github.com/boydarianne)
 [Instagram](instagram.com/arianne.boyd)
