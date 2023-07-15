@@ -5,4 +5,4 @@ Reading Notes For CodeX
 # *Three reminders to keep myself in a growth mindset:*
 ### 1. There is something gain from every experience whether it is good or bad. 2. Understand that development takes time so its important to be patient and know that you are making progress even when it may feel like you are not. 3. Always stop to acknoweldge what you HAVE accomplished. It helps to focus on the progress you havae made over focusing on what you have not done yet.
 [Instagram: @Arianne.Boyd](instagram.com/arianne.boyd)
-![Upload of Arianne working a community event for WaterWise to spread awareness around flood issues in New Orleans](![IMG_0401](https://github.com/boydarianne/Reading-Notes/assets/139197084/d758d2d9-2246-4e46-a5b2-24e07c79b342))
+![Upload of Arianne working a community event for WaterWise to spread awareness around flood issues in New Orleans](C:\Users\kdboy\Downloads\IMG_0401.jpg)
