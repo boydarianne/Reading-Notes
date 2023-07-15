@@ -8,5 +8,5 @@ Reading Notes For CodeX
 ### 2. Understand that development takes time so its important to be patient and know that you are making progress even when it may feel like you are not.
 ### 3.  Always stop to acknoweldge what you HAVE accomplished. It helps to focus on the progress you havae made over focusing on what you have not done yet.
 [Github](https://github.com/boydarianne)
-[Image Of Arianne](https://ariboyd.files.wordpress.com/2020/11/image-1.jpg?w=200)
+![Image Of Arianne](https://ariboyd.files.wordpress.com/2020/11/image-1.jpg?w=200)
 [Instagram](instagram.com/arianne.boyd)
