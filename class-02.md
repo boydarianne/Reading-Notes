@@ -18,3 +18,12 @@ We found the directory fpr projects
 created a directory for projects
 using touch we created a file for projects or found the file.
 finally, using cd .. we told the computer to go to a parent directory.
+
+
+**Additional Notes**
+Terminal is like a file explorer and allows different task such as:
+1. Find files, or file content
+2. change directories
+3. move and copy files
+4. open files
+5. make new files and folders
