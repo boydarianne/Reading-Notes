@@ -9,3 +9,4 @@ Write an example of a CSS rule that would give all <p> elements red text.
 <p> {
     color: red;
 }
+</p>
