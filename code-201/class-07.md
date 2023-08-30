@@ -21,7 +21,7 @@ Constructors a special method that is used to initialize objects
 An advantage of contrsuctors is the ability to create more than one object from a single object definition.
 2. How does the term this differ when used in an object literal versus when used in a constructor? When used in an object literal it is the equivalent of the object name that it is encased in. When it is used in a contstructor it allows the user to be able to "call" on the object name within separate objects. 
 
-<u>Object Protoypes Using A Constructor</u>
+<strong><u>Object Protoypes Using A Constructor</u></strong>
 
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
 
