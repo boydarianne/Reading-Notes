@@ -6,11 +6,11 @@ It is said to be one of the main point of interaction between the user and the w
 2. When designing a form, what are some key things to keep in mind when it comes to user experience?
 You only want to ask for information that you actually need to avoid running off users with too many task and unnecessary information.
 3. List 5 form elements and explain their importance.
-<form>, <label>, <input>, <textarea>,and <button>
-<form>- an element that contains forms and defines a form in an HTML document.
-<label>- defines the  key of the form for example if we want to prompt the user to enter their name then the label "name" will do that.
-<input>- a single line text field that can take information such as a name or strcitly email addresses.
-<textarea>- is a multi line text field.
+form, label, input, textarea,and button
+form- an element that contains forms and defines a form in an HTML document.
+label- defines the  key of the form for example if we want to prompt the user to enter their name then the label "name" will do that.
+input- a single line text field that can take information such as a name or strcitly email addresses.
+textarea- is a multi line text field.
 
 <u>Learn JS</u>
 
