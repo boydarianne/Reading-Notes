@@ -17,7 +17,7 @@ Flex-box is described to have one directional flow vs. grid that is CSS's very f
 The grid container is properties for the parent of the grid and grid item is properties for the children of the grid.
 The grid line is simply the dividing lines that help to make up the grid.
 
-<u>Responsive Images</u>
+<strong><u>Responsive Images</u></strong>
 
 1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
 Reasons other than making a site visually appealing by using responsive images would be faster download times, reduced bandwidth usage, accesibility, and SEO. To name a few.
