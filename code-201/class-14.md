@@ -29,3 +29,21 @@ Just a couple of lines of code will give you an awesome transition effect that w
 2. How this topic fit in with your long-term goals?
 
 When it comes to creating a page that is beautiful and interactive this topic will fit. There will be multiple times where I will create my own websites where I would love to add a lot of what I learned from this topic.
+
+<strong>Psychological Safety</strong>
+
+<u>What Google Learned From Its Quest to Build the Perfect Team</u>
+
+Discussion Questions:
+
+1. What are three key factors that contribute to psychologically safe teams?
+
+Ensure that the environment provides space for people to work together where individual talents can shine. Wokring in groups people tend to achieve better results and report higher job satisfaction. Groups tend to innovate faster, see errors quickly, and find better solutions to problems. Ultimately taking the pressure off of the individual and spreading task across the group ensures a better working environment.
+
+2. Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
+
+I would be able to say that my time spent working with local organizations really allowed for psychological safety. In this way I worked with multiple different people who were there with their specialty and we all came together to fight crisis in New Orleans such as flooding. I was the artist for the events and I would host paint the barrel portions for every event. It was my duty to handle that part. Someone else would handle supplies, so on and so forth. It made for a pretty smooth run on the day of the events.
+
+3. What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
+
+As stated before, they impact their company by fast tracking their growth, mitigate errors quikcly, and cultivate a happier environment for their employees which would help with employee retention.
